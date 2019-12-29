@@ -5,7 +5,7 @@
   "main": "dist/itemslide.min.js",
   "directories": {
     "example": "examples"
-  },f
+  },
   "scripts": {
     "start": "start ./index.html",
     "build": "browserify src/itemslide.js | uglifyjs > dist/bundle.min.js",
